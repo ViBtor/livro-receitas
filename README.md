@@ -1,4 +1,4 @@
 # Livro de Receitas :cake:
 
-- strogonoff
-- pave
+- Strogonoff
+- Pave
